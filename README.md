@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @cat161
-- 👀 I’m interested in web development,
-- 🌱 I’m currently learning HTML,CSS,Shell,C
-- 💞️ I’m looking to collaborate on websites...
+- 👀 I’m interested in ...,
+- 🌱 I’m currently learning Shell,C,
+- 💞️ I’m looking to collaborate on C projects...
 - 📫 contact me on twitter: @SamaCatto
 
 <!---
