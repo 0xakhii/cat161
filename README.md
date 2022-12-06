@@ -1,6 +1,7 @@
 <h3 align="center">Hi,I'm Omar <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif" height="45" width="45" /></h3>
 
+
 <br>
 
 <p align="center">
@@ -30,15 +31,15 @@
 <br>
 
 <p align="center">
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg alt=react width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt=express width="30" height="30"/>
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg alt=python width="75"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg alt=html5 width="75" />
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg alt=css3 width="75" />
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg alt=express width="75" />
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg alt=git width="75"/>
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/ubuntu-icon.svg" alt="Ubuntu Icon" />
-<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="30" height="30"/>
+<img src=https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg alt=linux width="75"/>
 <img width="75px" src="https://github.com/Pedro-Murilo/icons-for-readme/blob/main/.github/vscode-icon.svg" alt="VSCode Icon" />
+<img width="75px" src="https://user-images.githubusercontent.com/91758150/205903120-e7d9fbca-f6e0-4b55-b8b2-246c6852dceb.png" alt="Clang Icon" />
 </p>
 
 <br><br>
