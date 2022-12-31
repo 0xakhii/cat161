@@ -1,7 +1,7 @@
 <h3 align="center">Hi,I'm Omar <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" 
          alt="Waving hand animated gif" height="45" width="45" /></h3>
 
-
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/greenbinary/ojamal" alt="ojamal's 42 stats" /></a>
 <br>
 
 <p align="center">
